@@ -2,6 +2,8 @@ import numpy as np
 import streamlit as st
 import pickle
 
+# app for deployment
+
 st.title('Customer Churn Automation')
 st.text('by Sudarshan Zunja - May 2024')
 
